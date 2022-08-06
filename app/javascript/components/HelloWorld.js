@@ -20,7 +20,7 @@ class HelloWorld extends React.Component {
         Greeting: {this.props.greeting}
 
         <button className="getThingsBtn" onClick={() => this.props.getThings()}>getThings</button>
-
+        
       </React.Fragment>
     );
   }
