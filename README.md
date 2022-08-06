@@ -50,3 +50,6 @@ Give a ⭐ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+Remove `node_modules` and `package-lock.json`
+npm cache verify
