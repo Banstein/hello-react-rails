@@ -1,24 +1,52 @@
-# README
+## My Budget
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is an app used for react rails tutorial.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## Built With
 
-* Database creation
+- React
+- Rails
+- Psql
+- CSS
 
-* Database initialization
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+Start by cloning the repository.
 
-* Deployment instructions
+`git@github.com:Banstein/hello-react-rails.git`
 
-* ...
+Navigate to the created folder.
+
+`cd my-budget`
+
+Start the development server
+
+`rails server`
+`./bin/webpack-dev-server`
+
+
+## Authors
+
+👤 Islam Bahnas
+
+- GitHub: [@Banstein](https://github.com/Banstein)
+- Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
+- LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Banstein/hello-react-rails/issues).
+
+## Show your support
+
+Give a ⭐ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
